@@ -1,0 +1,7 @@
+# analysis - versions used to produce figures/ and stats_summary.csv (Python 3.12.0)
+numpy==2.2.6
+scipy==1.18.1
+matplotlib==3.11.2
+polars==1.24.0
+fastexcel==0.21.0
+# game (Raspberry Pi): pygame, RPi.GPIO
